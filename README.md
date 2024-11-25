@@ -1,47 +1,63 @@
-# Wilyajani Altuve
-#### Tester QA 
-👋 ¡Hola, mundo! 🌍 Este es mi CV. Aquí encontrarás mi viaje como tester, habilidades técnicas, y las herramientas que domino. ¡Explora y conoce mi perfil!
+# Tester QA Manual y Automatizado
+👋 ¡Hola, mundo! 🌍 Este es mi CV. Aquí encontrarás mi viaje como tester, habilidades técnicas, 
+y las herramientas que domino. ¡Explora y conoce mi perfil! 🚀
 
 
 
 # 🚀 Sobre mí 
-Aanalista QA. Apasionada por la tecnología y con una sólida formación en pruebas de software.
+Analista QA manual y automatizado. Apasionada por la tecnología y con una sólida formación en pruebas de software.
 Amplios conocimientos en diseño y ejecución de casos de prueba, así como en la generación de informes detallados. 
 
-Me destaco por ser una persona que está atenta a los detalles por mínimo que sea, soy proactiva, con excelente comunicación asertiva y empatía, capacidad para trabajar en equipo, con buena adaptación a los cambios e ideas innovadoras.
+Me destaco por ser una persona que está atenta a los detalles por mínimo que sea, soy proactiva, 
+con excelentes habilidades de comunicación asertiva y empatía, capacidad para trabajar en equipo, 
+con buena adaptación a los cambios e ideas innovadoras.
 
 
 # 🛠 Skills 
 
-**🖥️ Hard Skills:**  Jmeter, creación y ejecución de casos de prueba, reporte y evidencia de bugs, JIRA, confluence, ZEPHYR, SQL, Postman, SCRUM, KANBAN, pruebas de accesibilidad, pruebas UAT, pruebas UX/UI, pruebas móviles, JSON, Git/Github, pruebas de videojuegos, selenium IDE 
-
-**🧠 Soft Skills:** Comunicación asertiva, atención a los detalles, gestión del tiempo, trabajo en equipo, autogestión, resolución de problemas, proactividad, pensamiento crítico, adaptación al cambio
-
-
-## 👩🏻‍💻Experiencia
-#### TESTER QA- MINDHUB
-#### Jul 2024- Actualmente
+**🖥️ Hard Skills:**  Jmeter, creación y ejecución de casos de prueba, reporte y evidencia de bugs, JIRA, confluence, 
+ZEPHYR, SQL, Postman, SCRUM, KANBAN, pruebas de accesibilidad, pruebas UAT, pruebas UX/UI, pruebas móviles, JSON, Git/Github, 
+pruebas de videojuegos, Selenium IDE, Jenkins, Eclipse, IntellijIdea, Katalon.
 
 
-- Ejecuté pruebas de manera eficiente, documentando resultados precisos y reportando defectos, lo que resultó en una mejora continua del producto y una disminución de defectos en producción del 60%.
-
-- Validé el cumplimiento de los requisitos del proyecto, asegurando que todas las funcionalidades entregadas se ajustaran a las especificaciones y estándares de calidad, aumentando la satisfacción del cliente en un 80%. 
-
-- Planifiqué e identifiqué escenarios de prueba clave, optimizando el proceso de testing y reduciendo los tiempos de prueba en un 25%.
-
-- Creé casos de prueba eficaces utilizando tecnologías como SQL y JSON, lo que permitió validar la integridad de datos y la correcta interacción de APIs, incrementando la cobertura de pruebas en un 30%.
-## Estudios
-- Testing and automation - Julio 2024 a Noviembre 2024 - 230Hrs
-MindHub LA + PROtalento + Goyn 
-
-[Link a mi insignia](URL)
+[![My Skills](https://skillicons.dev/icons?i=js,java,selenium,git,cloudflare,python,eclipse,idea,jenkins,postman)](https://skillicons.dev)
 
 
+**🧠 Soft Skills:** Comunicación asertiva, atención a los detalles, gestión del tiempo, trabajo en equipo, autogestión, 
+resolución de problemas, proactividad, pensamiento crítico, adaptación al cambio, liderazgo.
 
 
+# 👩🏻‍💻Experiencia
+#### TESTER QA, Contrato de formación- MINDHUB
+#### Jul 2024- Nov 2024
 
-## 📽️ Proyectos
+- Identificar, documentar y reportar errores y defectos en el software mediante pruebas exhaustivas utilizando herramientas de
+  gestión de errores como Jira para reportar, asignar y dar seguimiento a los defectos detectados, asegurando una resolución oportuna.
+  
+- Realizar pruebas de rendimiento en herramientas como Jmeter, para verificar la cantidad de usuarios  que puede soportar una página.
+  
+- Automatizar procesos repetitivos en herramientas como Selenium IDE y KATALON, para agilizar la entrega de proyectos,
+  garantizando la funcionalidad o  bugs hallados.
+  
+## Logros
+Lideré equipos de 5 a 16 personas, delegando tareas estratégicamente para optimizar el rendimiento y asegurar el cumplimiento de objetivos. 
+Este enfoque impulsó la productividad de los equipos, alcanzando un 85% de participación efectiva en los proyectos.
 
-se realizo un smoke test y pruebas de carga y ramas
 
-[Link de proyecto](https://github.com/Yajani12/EVIDENCIAS-JAVA.git)
+# 📚Certificaciones
+- Generative IA: Prompt Engineering, IBM
+- Bootcamp de Testing y automatización para aplicaciones y videojuegos, MindHub
+- Habilidades socioemocionales y empleabilidad, PROtalento
+- Ciberseguridad en la era digital: protección de datos y desafios emergentes, Desafío LATAM
+- UX/UI En la era remota: Estrategias para un diseño efectivo, Desafío LATAM
+- Liderazgo y habilidades de negociación, Tecnológico de Monterrey 
+
+
+## 🔗 Links
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_insignia-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.acreditta.com/credential/2d47b01d-663f-4418-94ba-47a201cbcb23)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilyajani-altuve/)
+
+
