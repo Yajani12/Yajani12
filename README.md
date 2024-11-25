@@ -54,8 +54,6 @@ Este enfoque impulsó la productividad de los equipos, alcanzando un 85% de part
 
 
 ## 🔗 Links
-
-## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_insignia-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.acreditta.com/credential/2d47b01d-663f-4418-94ba-47a201cbcb23)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilyajani-altuve/)
