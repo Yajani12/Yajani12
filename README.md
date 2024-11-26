@@ -39,7 +39,7 @@ resolución de problemas, proactividad, pensamiento crítico, adaptación al cam
 - Automatizar procesos repetitivos en herramientas como Selenium IDE y KATALON, para agilizar la entrega de proyectos,
   garantizando la funcionalidad o  bugs hallados.
   
-## Logros
+## 🏆Logros
 Lideré equipos de 5 a 16 personas, delegando tareas estratégicamente para optimizar el rendimiento y asegurar el cumplimiento de objetivos. 
 Este enfoque impulsó la productividad de los equipos, alcanzando un 85% de participación efectiva en los proyectos.
 
